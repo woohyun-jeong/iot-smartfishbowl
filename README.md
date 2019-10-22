@@ -6,7 +6,7 @@
 - RTSP 실시간 영상 : https://github.com/yixia/VitamioBundle
 
 ## 
-<img src="https://user-images.githubusercontent.com/23310187/34244435-91eab306-e668-11e7-8063-735dff683bf8.png" width="90%"></img>
+<img src="https://github.com/woohyun-jeong/iot-smartfishbowl/blob/master/%EB%B3%B4%EA%B3%A0%EC%84%9C%20%EB%B0%8F%20%EC%9E%90%EB%A3%8C/%EC%8B%A4%EC%A0%9C%20%EA%B5%AC%EC%84%B1%20%ED%99%94%EB%A9%B4.jpg" width="200"></img>
 
 VITAMIO LICENSE
 --------------------------------------------------
