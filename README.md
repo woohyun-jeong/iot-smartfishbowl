@@ -5,7 +5,8 @@
 - 키우는 물고기의 설명(webview), 실시간 영상, 실시간 온도체크, 키우는 기간등 설정을 할 수 있는 앱과 라즈베리파이 구성.
 - RTSP 실시간 영상 : https://github.com/yixia/VitamioBundle
 
-## VITAMIO LICENSE 표기
+## 
+<img src="https://user-images.githubusercontent.com/23310187/34244435-91eab306-e668-11e7-8063-735dff683bf8.png" width="90%"></img>
 
 VITAMIO LICENSE
 --------------------------------------------------
